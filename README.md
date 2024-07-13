@@ -27,4 +27,7 @@ I conducted an 8-hour course on <b>Cybersecurity applied to Port Facilities</b> 
    4.4. Training and Awareness <br/>
    4.5. Audits <br/>
    4.6. Drills and Simulations <br/>
-5. Standards and Legislation 
+5. Standards and Legislation <br/>
+   5.1 International Ship and Port Facility Security Code (ISPS Code)
+   5.2 ISO 27001 <br/>
+   5.3 Brazilian Data Protection Law
