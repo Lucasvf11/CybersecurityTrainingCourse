@@ -1,7 +1,7 @@
 # CybersecurityTrainingCourse
 
 <h2>Description</h2>
-I conducted an 8-hour course on <b>Cybersecurity applied to Port Facilities</b> tailored for professionals in the port sector. This course provided a comprehensive overview of the critical aspects of cybersecurity relevant to port facilities, covering theoretical concepts and practical applications. 
+I conducted an 8-hour course on <b>Cybersecurity applied to Port Facilities</b> tailored for professionals in the port sector. This course provided a comprehensive overview of the critical aspects of cybersecurity relevant to port facilities, covering theoretical concepts and examples from the sector. 
 <br/>
 
 - [Day 1](https://www.youtube.com/watch?v=6nfffyUJA_s)
