@@ -1,7 +1,7 @@
 # CybersecurityTrainingCourse
 
 <h2>Description</h2>
-I conducted an 8-hour course on <b>Cybersecurity applied to Port Facilities</b> tailored for professionals in the port sector. This course provided a comprehensive overview of the critical aspects of cybersecurity relevant to port facilities, covering theoretical concepts and examples from the sector. 
+I conducted an 8-hour course on <b>Cybersecurity applied to Port Facilities</b> tailored for professionals in the port sector. This course provided a comprehensive overview of the critical aspects of cybersecurity relevant to port facilities, covering theoretical concepts and examples from the sector.
 <br/>
 
 - [Day 1](https://www.youtube.com/watch?v=6nfffyUJA_s)
@@ -28,6 +28,6 @@ I conducted an 8-hour course on <b>Cybersecurity applied to Port Facilities</b> 
    4.5. Audits <br/>
    4.6. Drills and Simulations <br/>
 5. Standards and Legislation <br/>
-   5.1 International Ship and Port Facility Security Code (ISPS Code)
+   5.1 International Ship and Port Facility Security Code (ISPS Code) <br/>
    5.2 ISO 27001 <br/>
    5.3 Brazilian Data Protection Law
